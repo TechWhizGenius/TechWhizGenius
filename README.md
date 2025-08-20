@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Teja Babu Mandaloju  
 
-<!--
-**TechWhizGenius/TechWhizGenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **MLOps Engineer | Data Scientist | Researcher**  
+🎓 Master's in Data Science @ University of North Texas (GPA: 4.0)  
+🌐 Passionate about **AI Agents, Multimodal RAG, NLP, and Scalable Cloud ML Systems**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+- 💻 Currently an **MLOps Engineer @ Vosyn Inc.**, building **AI agents** with **multimodal RAG (Text + Video + Image)** using Gemini 2.5 & Vertex AI.  
+- ⚡ Skilled in **end-to-end ML pipelines**, **vector search**, and **cloud-native deployments**.  
+- 📚 Researcher at UNT with **3 publications & 2 conference presentations** in NLP for disaster response, healthcare, and education.  
+- 🧠 Strong background in **transformer-based LLMs, deep learning, and explainable AI**.  
+- 🌱 Always exploring new ways to bridge research with real-world applications.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & ML/DL**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-FF4500?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
+
+**Cloud & DevOps**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+
+**Data Tools & Visualization**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)  
+
+---
+
+## 📂 Featured Projects  
+🔹 **[Financial Time Series Forecasting](#)** – LSTM model for S&P 500 predictions (87% accuracy) deployed on Azure ML  
+🔹 **[Customer Churn Prediction with Explainable AI](#)** – XGBoost + Random Forest with SHAP interpretability (93% accuracy)  
+🔹 **[Multimodal Healthcare Document Analysis](#)** – CNN + BERT for medical image & text classification (91% accuracy)  
+
+---
+
+## 🏆 Achievements  
+🏅 2nd Place – **AIS AI-Driven IT Support Challenge 2025**  
+🥈 Runner-up – **Nationwide Artificial Intelligence Competition**  
+🎖️ **Excellence in Innovation Award 2021** – T-Hub & Hiroshima Prefecture Japan  
+🎨 **Data Visualization Award 2025** – UNT Welcome Center  
+
+---
+
+## 🤝 Leadership & Community  
+📊 **UNT Data Science Organization** – Grew membership by 30% through ML workshops  
+🧠 **AIS Student Chapter** – Led AI-driven IT support project (top-2 finish)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWhizGenius&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=TechWhizGenius&theme=radical&border_radius=5)  
+
+---
+
+## 📫 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teja-mandaloju)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechWhizGenius)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teja.mandaloju1512@gmail.com)  
+
+---
+
+⭐️ *“Turning data into intelligence, and intelligence into impact.”*  
