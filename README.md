@@ -33,9 +33,9 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Financial Time Series Forecasting](#)** – LSTM model for S&P 500 predictions (87% accuracy) deployed on Azure ML  
-🔹 **[Customer Churn Prediction with Explainable AI](#)** – XGBoost + Random Forest with SHAP interpretability (93% accuracy)  
-🔹 **[Multimodal Healthcare Document Analysis](#)** – CNN + BERT for medical image & text classification (91% accuracy)  
+🔹 **[Autonomous Driving Research Trends](https://github.com/TechWhizGenius/natural-language-processing-exps/tree/main/TERM_PROJECT)** – Research Trends in Autonomous Driving using topic Modeling  
+🔹 **[Impact of Gen AI on Libraries](#)** – Sentiment Analysis and Geo-graphical analysis on X (previously known as Twitter) data  
+🔹 **[Hurricane Immigrant Tweet Analysis](https://github.com/TechWhizGenius/Project_Hurricane_Tweet_Analysis5709)** – Analyzing Twitter data of Immigrants during hurricanes.  
 
 ---
 
