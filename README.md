@@ -95,18 +95,6 @@ Spearheaded the AI-driven IT support project that secured a top-2 finish in a na
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWhizGenius&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TechWhizGenius&theme=radical&hide_border=true&border_radius=5)
-
-</div>
-
----
-
 ## 🌟 Core Competencies
 
 ```python
